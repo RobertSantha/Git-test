@@ -1,2 +1,2 @@
 # Git-test
-For training
+hello odin
